@@ -60,6 +60,20 @@ This script automates the creation of a co-authored commit, opens a pull request
 | :--: | :----: | :----: | :--: |
 | [![Base](https://github.com/Shineii86/PairExtraordinaire/blob/main/images/pair-extraordinaire-default.png)](https://github.com/Shineii86/PairExtraordinaire) | [![Bronze](https://github.com/Shineii86/PairExtraordinaire/blob/main/images/pair-extraordinaire-bronze.png)](https://github.com/Shineii86/PairExtraordinaire) | [![Silver](https://github.com/Shineii86/PairExtraordinaire/blob/main/images/pair-extraordinaire-silver.png)](https://github.com/Shineii86/PairExtraordinaire) | [![Gold](https://github.com/Shineii86/PairExtraordinaire/blob/main/images/pair-extraordinaire-gold.png)](https://github.com/Shineii86/PairExtraordinaire) |
 
+
+> The "**Pair Extraordinaire**" achievement is a fun one—it's awarded for co-authoring commits on merged pull requests, recognizing your collaborative coding efforts.
+
+> Similar to the "**Pull Shark**" badge, this achievement also has four tiers, each with its own requirement.
+
+### 🏅 Pair Extraordinaire Achievement Tiers
+
+| Tier | Badge Name | Requirement for Merged Pull Requests |
+| :--- | :--- | :--- |
+| 1 | **Default / x1** | Co-author a commit on **1** merged pull request |
+| 2 | **Bronze / x2** | Co-author a commit on **10** merged pull requests |
+| 3 | **Silver / x3** | Co-author a commit on **24** merged pull requests |
+| 4 | **Gold / x4** | Co-author a commit on **48** merged pull requests |
+
 ---
 
 ## 2. What You'll Need
