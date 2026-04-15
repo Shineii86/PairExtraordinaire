@@ -2,7 +2,7 @@
 
 [![Pair Extraordinaire Automator Banner](https://raw.githubusercontent.com/Shineii86/PairExtraordinaire/main/images/PairExtraordinaire.png)](https://github.com/Shineii86/PairExtraordinaire)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shineii86/PairExtraordinaire/blob/main/notebooks/PairExtraordinaire_Automator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shineii86/PairExtraordinaire/blob/main/notebooks/PairExtraordinaire.ipynb)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -70,7 +70,7 @@ Before you begin:
 
 ### 1️⃣ One‑Click Colab
 
-<a href="https://colab.research.google.com/github/Shineii86/PairExtraordinaire/blob/main/notebooks/PairExtraordinaire_Automator.ipynb">
+<a href="https://colab.research.google.com/github/Shineii86/PairExtraordinaire/blob/main/notebooks/PairExtraordinaire.ipynb">
   <img src="https://user-images.githubusercontent.com/125879861/255389999-a0d261cf-893a-46a7-9a3d-2bb52811b997.png" alt="Open In Colab" width="200px">
 </a>
 
