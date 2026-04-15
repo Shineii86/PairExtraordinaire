@@ -23,7 +23,9 @@ A **fully automated** Python script that runs in **Google Colab** to create a co
 
 ---
 
-# 👥 Pair Extraordinaire Automator – Beginner's Guide
+# 👥 Pair Extraordinaire Automator
+
+- **Beginner's Guide**
 
 Welcome! This guide will walk you through **every single step** to earn the **Pair Extraordinaire** achievement on GitHub using our automated Google Colab notebook.
 
